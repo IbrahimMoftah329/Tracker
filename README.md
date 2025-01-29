@@ -16,10 +16,10 @@ Tracker is an iOS app developed to provide users with real-time tracking and upd
 
 ### Tech Stack
 
-- ** Programming Language: Swift
-- ** Framework: SwiftUI
-- ** API: Coinable API
-- ** Development Environment: Xcode
+- **Programming Language:** Swift
+- **Framework:** SwiftUI
+- **API:** Coinable API
+- **Development Environment:** Xcode
 
 ### Highlights
 
